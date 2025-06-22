@@ -2,6 +2,7 @@
   "name": "johncarlo-portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Johncarlo36.github.io/PORTFOLIO-johncarlo",
   "type": "module",
   "scripts": {
     "dev": "vite",
